@@ -1,0 +1,8 @@
+No
+Nuvvu velthe naaku kooda teesukura
+Broo...
+Ok
+Yovv...ayipoganr AB-2 T001 ki vachey...
+Don't miss
+Sarle ekkuva mandi vunte naaku place pettu
+Write a python program to count the number of lines, number of letters, number of words, number of consonants, number of vowels in the file and print the words in a dictionary with keys as their first character?
