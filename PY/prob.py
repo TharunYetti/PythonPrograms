@@ -1,0 +1,9 @@
+a=10
+b=15
+a=8
+b=12
+b=a
+a=a+b+a
+b=b+b+a
+print(a)
+print(b)
